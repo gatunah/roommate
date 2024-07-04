@@ -1,0 +1,34 @@
+{
+  "gasto": [
+    {
+      "id": "bc801b",
+      "roommate": "Ella Gautier",
+      "descripcion": "Articulos de limpieza",
+      "monto": 5000
+    },
+    {
+      "id": "0219e2",
+      "roommate": "Ella Gautier",
+      "descripcion": "Ampolleta",
+      "monto": 2000
+    },
+    {
+      "id": "65a326",
+      "roommate": "Sessa de Jesús",
+      "descripcion": "Lavaloza",
+      "monto": 2000
+    },
+    {
+      "id": "e3eba7",
+      "roommate": "کیمیا جعفری",
+      "descripcion": "Diccionario árabe",
+      "monto": 3500
+    },
+    {
+      "id": "0fa97e",
+      "roommate": "Brennan West",
+      "descripcion": "Manguera lavadora",
+      "monto": 4500
+    }
+  ]
+}

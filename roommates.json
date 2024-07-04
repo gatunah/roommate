@@ -1,0 +1,34 @@
+{
+  "roommate": [
+    {
+      "id": "a5ccfa",
+      "nombre": "Brennan West",
+      "debe": 4500,
+      "recibe": 5000
+    },
+    {
+      "id": "74d5b3",
+      "nombre": "Ella Gautier",
+      "debe": 7000,
+      "recibe": 8000
+    },
+    {
+      "id": "ea3939",
+      "nombre": "کیمیا جعفری",
+      "debe": 3500,
+      "recibe": 14000
+    },
+    {
+      "id": "e19d31",
+      "nombre": "Sessa de Jesús",
+      "debe": 2000,
+      "recibe": 60000
+    },
+    {
+      "id": "6325c1",
+      "nombre": "Arvin Vestly",
+      "debe": 0,
+      "recibe": 10000
+    }
+  ]
+}
