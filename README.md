@@ -2,9 +2,9 @@
 
 ## Características
 
-- **Gestión de Roommates: Agrega y visualiza compañeros de habitación.
-- **Registro de Gastos: Registra los gastos realizados por cada roommate.
-- **Historial de Gastos: Mantén un historial de todas las transacciones realizadas.
+- Gestión de Roommates: Agrega y visualiza compañeros de habitación.
+- Registro de Gastos: Registra los gastos realizados por cada roommate.
+- Historial de Gastos: Mantén un historial de todas las transacciones realizadas.
 - **Actualización y Eliminación: Edita y elimina gastos según sea necesario.
 - **Deuda total: Contabiliza la deuda total de cada Roommate.
 
