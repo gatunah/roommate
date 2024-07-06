@@ -2,26 +2,27 @@
 
 ## Características
 
-- **Gestión de Roommates:** Agrega y visualiza compañeros de habitación.
-- **Registro de Gastos:** Registra los gastos realizados por cada roommate.
-- **Historial de Gastos:** Mantén un historial de todas las transacciones realizadas.
-- **Actualización y Eliminación:** Edita y elimina gastos según sea necesario.
-- **Deuda total:** Contabiliza la deuda total de cada Roommate.
-
-## Tecnologías Utilizadas
-- **Frontend:** HTML, CSS (Bootstrap), JavaScript (jQuery).
-- **Backend:** Node.js, Express.
-- **Base de Datos:** JSON (para almacenamiento de datos).
+**JWT Authentication:** Tokens JWT para gestionar el acceso seguro a recursos restringidos.
+**Node.js y Express:** Para crear el servidor backend que maneja las solicitudes de autenticación y acceso.
+**Frontend con HTML y Bootstrap:** Desarrollo del frontend utilizando HTML para la estructura y Bootstrap para el diseño responsivo y los estilos.
+**Gestión de Sesiones:** Manejo de sesiones de usuario utilizando localStorage para almacenar y recuperar tokens JWT.
+**Manejo de Errores:** Implementación de manejo de errores frontend como en el backend.
+**Rutas Protegidas:** Configuración de rutas protegidas que requieren autenticación mediante JWT para acceder.
 
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
 2. Instala las dependencias utilizando npm install.
 
-## Base de datos
-
-El almacenamiento de la información se hace por medio se archivos JSON, por lo cual no hace falta instalar script.
-
 ## Ejecución
 1. En el terminal del proyecto, ejecutar "node server".
-2. Realiza pruebas agregando un nuevo Rommate; agregando, editando y elimnando gastos.
+2. Realiza pruebas ingresando con los siguientes datos, de igual manera, estos se encuentran el datos/agentes.js:
+    **email:** 'who@fbi.com'
+    **password:** 'me'
+   
+    **email:** 'where@fbi.com'
+    **password:** 'there'
+   
+    **email:** 'how@fbi.com'
+    **password:** 'exactly'
+   
